@@ -1,20 +1,8 @@
 [
   {
-    "title": "Lorem Ipsum",
-    "info": "Lorem Ipsum Dolor Sit Amet",
-    "imageUrl": "https://www.melodiamusik.com/wp-content/uploads/2025/06/rekomendasi-mixer-audio.webp",
-    "cta_url": "https://wa.me/6285732351432"
-  },
-  {
-    "title": "Lorem Ipsum",
-    "info": "Lorem Ipsum Dolor Sit Amet",
-    "imageUrl": "https://www.melodiamusik.com/wp-content/uploads/2025/06/rekomendasi-mixer-audio.webp",
-    "cta_url": "https://wa.me/6285732351432"
-  },
-  {
-    "title": "Lorem Ipsum",
-    "info": "Lorem Ipsum Dolor Sit Amet",
-    "imageUrl": "https://www.melodiamusik.com/wp-content/uploads/2025/06/rekomendasi-mixer-audio.webp",
-    "cta_url": "https://wa.me/6285732351432"
+    "title": "DLMS Mobile v1.1",
+    "info": "Real-time DSP audio player with 15-band EQ, YouTube downloads, and native AAudio engine.",
+    "imageUrl": "",
+    "cta_url": "https://github.com/brmenn/DLMS_Mobile"
   }
 ]
